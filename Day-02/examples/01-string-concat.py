@@ -1,4 +1,4 @@
-str1 = "Hello"
-str2 = "World"
+str1 = input("Enter the Name")
+str2 = input("Enter the Surname")
 result = str1 + " " + str2
-print(result)
+print(f"Hello, result ! Welcome onoard")
